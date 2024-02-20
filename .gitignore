@@ -1,0 +1,5 @@
+.github/*
+README.md
+ui/node_modules
+ui/dist/*
+ui/.angular
